@@ -14,7 +14,7 @@ The bank's consolidated performance over the 3-year period appears strong at fir
 However, these headline numbers hide significant underlying risks, specifically regarding **Operational Inefficiency** in our largest regions and **Liquidity Risk** in our most profitable branches.
 
 <p align="center"> 
-<img width="921" height="509" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/eae48e73-d3f4-49e9-96a3-df46059d7565" />
+<img width="898" height="508" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/5da30d7d-1f9e-4992-8cd1-957a12b86bda" />
 </p>
 
 
@@ -28,7 +28,7 @@ However, these headline numbers hide significant underlying risks, specifically 
 **Our Costs Are Too Rigid:** The **Profitability Analysis** diagnoses why our profits are squeezed during downturns.
 
 <p align="center">
-<img width="917" height="508" alt="Profitability View" src="https://github.com/user-attachments/assets/be33ef03-f73c-4329-b7bc-5bcd82807749" />
+<img width="899" height="506" alt="Profitability" src="https://github.com/user-attachments/assets/c2241bca-a635-4223-95b6-c09adafd6faf" />
 </p>
 
 * **90% Fixed Costs:** The Expense Breakdown shows that **90.15%** of our operating costs are fixed: **Salaries (60.16%)** and **Rent (29.99%)**.
@@ -38,7 +38,7 @@ However, these headline numbers hide significant underlying risks, specifically 
 **Profitable but Risky:** The **Loan Performance** view reveals a major trade-off between profit and safety.
 
 <p align="center">
-<img width="916" height="509" alt="Loan Performance View" src="https://github.com/user-attachments/assets/a1351595-7873-453b-ad8d-d5eb75e9ae46" />
+<img width="897" height="509" alt="Loan Performance" src="https://github.com/user-attachments/assets/d9bb8ca4-a737-4833-a1c2-c2537feadb0b" />
 </p>
 
 * **Aggressive Lending:** Our #1 branch, **Houston (Branch 6016)**, has a Loan-to-Deposit Ratio (LDR) of **82.17%**. This is significantly higher than the bank average of **67%**.
@@ -48,7 +48,7 @@ However, these headline numbers hide significant underlying risks, specifically 
 **The Model Zone vs. The Risk Zone:** The **Regional Ranking** view compares our regions to find the best operational model.
 
 <p align="center">
-  <img width="916" height="510" alt="Regional Ranking View" src="https://github.com/user-attachments/assets/54849a2f-6314-4f63-96f9-1786fee974fa" />
+<img width="894" height="511" alt="Regional Ranking" src="https://github.com/user-attachments/assets/5479f432-3fe0-412d-a670-c2769316328a" />
 </p>
 
 * **The Risk Zone (East):** The Scatter Plot shows the East region high on the "Volatility" axis. It generates high profit ($1.74bn) but with the highest instability ($17.66M volatility).
@@ -58,7 +58,7 @@ However, these headline numbers hide significant underlying risks, specifically 
 **A Double-Edged Sword:** The **What-If Simulation** reveals our sensitivity to external factors.
 
 <p align="center">
-  <img width="923" height="507" alt="NII Impact View" src="https://github.com/user-attachments/assets/250122a9-c9bb-4a56-8736-f93fb75df07f" />
+<img width="897" height="507" alt="NII Impact" src="https://github.com/user-attachments/assets/868d9da7-d04f-4154-a2a4-cfba7620fa88" />
 </p>
 
 * **High Sensitivity:** Simulating a **+1% interest rate hike** boosts our Profit Margin from 33% to nearly **40%**, adding **$1.8 billion** to Net Interest Income.
@@ -66,7 +66,7 @@ However, these headline numbers hide significant underlying risks, specifically 
 * **Vulnerable Branches:** The "Top 10 Impacted Branches" list shows that our inefficient branches (like **Branch 6006**) are the most exposed. They have such thin margins that a rate drop could instantly push them into unprofitability.
 
 <p align="center">
-<img width="919" height="507" alt="Margin Impact View" src="https://github.com/user-attachments/assets/2efde297-c733-4d6b-baf5-da1e3c7f00d5" />
+<img width="898" height="506" alt="Margin Impact" src="https://github.com/user-attachments/assets/9960da2c-2dc2-44b9-a74c-1d1d82410ec2" />
 </p>
 
 ## Strategic Recommendations
@@ -74,8 +74,8 @@ Based on these data-driven findings, the following actions are recommended:
 
 1.  **Replicate the "Houston" Blueprint**: Target a reduction in peer **Cost-to-Income ratios towards 55%** by adopting the operational efficiency model of Branch 6016.
 2.  **Variable Pay Structure**: Introduce performance-based bonuses to convert some fixed Salary costs into variable costs. This ensures expenses drop when revenue drops.
-3.  **Operational Audit for "Bottom 10"**: Conduct immediate reviews of the Bottom 10 branches (specifically in the West and North) for potential downsizing to reduce the fixed Rent burden.
-4.  **Liquidity Safety Net**: Implement an automated monitoring system to flag branches with **LDR > 75%** (like Houston) to ensure they maintain sufficient cash reserves.
+3.  **Operational Audit for "Bottom 10"**: Conduct immediate reviews of the Bottom 10 branches (specifically in the West and North) for potential downsizing or closure to reduce the fixed Rent burden.
+4.  **Liquidity Safety Net**: Implement an automated monitoring system (Power BI Service Alert) to flag branches with **LDR > 75%** (like Houston) to ensure they maintain sufficient cash reserves.
 
 ## Interactive Report Features
 The report was designed to be a fully interactive tool for analysts and managers:

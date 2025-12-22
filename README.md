@@ -42,7 +42,7 @@ However, these headline numbers hide significant underlying risks, specifically 
 </p>
 
 * **Aggressive Lending:** Our #1 branch, **Houston (Branch 6016)**, has a Loan-to-Deposit Ratio (LDR) of **82.17%**. This is significantly higher than the bank average of **67%**.
-* **Liquidity Warning:** While this aggressive lending drives Houston's high profit, it creates a **Liquidity Risk**. An LDR of 82% means the branch has lent out almost all its cash. If depositors suddenly withdraw funds, this branch—our "best" performer—would face an immediate cash crisis.
+* **Liquidity Warning:** While this aggressive lending drives Houston's high profit, it creates a **Liquidity Risk**. An LDR of 82% means the branch has lent out almost all its cash. If depositors suddenly withdraw funds, this branch, our "best" performer would face an immediate cash crisis.
 
 ## Core Finding #4: The Efficiency Gap (Regional Scorecard)
 **The Model Zone vs. The Risk Zone:** The **Regional Ranking** view compares our regions to find the best operational model.

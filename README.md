@@ -32,7 +32,7 @@ However, these headline numbers hide significant underlying risks, specifically 
 </p>
 
 * **90% Fixed Costs:** The Expense Breakdown shows that **90.15%** of our operating costs are fixed: **Salaries (60.16%)** and **Rent (29.99%)**.
-* **The Inflexibility Problem:** The "Revenue vs. Cost Growth" chart shows that in **Q4 2024**, revenue growth dropped, but cost growth stayed high. Because we couldn't cut salaries or rent fast enough to match the drop in sales, our profit margin was squeezed. This proves the bank lacks the flexibility to handle bad economic times.
+* **The Inflexibility Problem:** The "Revenue vs. Cost Growth" chart shows that in **Q1 2025 and Q3 2025**, revenue growth dropped, but cost growth stayed high. Because we couldn't cut salaries or rent fast enough to match the drop in sales, our profit margin was squeezed. This proves the bank lacks the flexibility to handle bad economic times.
 
 ## Core Finding #3: The Hidden Risk (Loan Performance)
 **Profitable but Risky:** The **Loan Performance** view reveals a major trade-off between profit and safety.

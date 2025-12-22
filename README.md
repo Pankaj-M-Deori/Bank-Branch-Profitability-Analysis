@@ -1,9 +1,9 @@
 # BANK BRANCH PROFITABILITY ANALYSIS
 
 ## Project Overview
-This project, **"Bank Branch Profitability Analysis"**, is a comprehensive Power BI analytics tool designed to assess the true financial health of a bank’s branch network. It moves beyond simple "Net Profit" to evaluate branches based on **Efficiency** and **Risk-Adjusted Return (RAR)**.
+This project is a complete Power BI analysis tool designed to check the true health of a bank’s branch network. While many reports only look at "Net Profit," this project goes deeper. It evaluates branches based on **Efficiency** (how much it costs to make a dollar) and **Risk-Adjusted Return (RAR)** (how stable the profit is over time).
 
-The primary goal was to answer: *"Which branches are truly helpful to the business, and which ones are risky or inefficient?"* The report provides a clear, data-driven narrative to help managers fix inefficient cost structures and replicate the success of top performers.
+The main goal of this report is to answer the critical question: *"Which branches are truly helpful to the business, and which ones are risky or inefficient?"* It helps managers identify "at-risk" branches that are hiding behind big revenue numbers and find the best operational models to copy across the network.
 
 ## Overall Bank Health (The "Headline" Numbers)
 The bank's consolidated performance over the 3-year period appears strong at first glance:

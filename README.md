@@ -7,9 +7,10 @@ The main goal of this report is to answer the critical question: *"Which branche
 
 ## Overall Bank Health (The "Headline" Numbers)
 The bank's consolidated performance over the 3-year period appears strong at first glance:
-* **Net Profit**: **$5.36 billion**
-* **Profit Margin**: **33.10%**
-* **Cost-to-Income Ratio**: **65.41%**
+* **Total Net Profit**: **$5.36 billion** 
+* **Profit Margin**: **33.10%** 
+* **Cost-to-Income Ratio**: **65.41%** (For every $1 earned, we spend nearly 65 cents) 
+* **Loan-to-Deposit Ratio**: **67.73%** 
 
 However, these headline numbers hide significant underlying risks, specifically regarding **Operational Inefficiency** in our largest regions and **Liquidity Risk** in our most profitable branches.
 
@@ -19,10 +20,13 @@ However, these headline numbers hide significant underlying risks, specifically 
 
 
 ## Core Finding #1: Big Revenue vs. Real Quality
-**The Deception of Scale:** The **Overview Dashboard** reveals that "Bigger" does not mean "Better."
-* **The East Region** is our largest engine, generating **$5.3 billion** in revenue.
-* However, the **Branch Ranking Table** shows that the East is **not** the home of our best performers. Top branches based on **Risk-Adjusted Return (RAR)** are actually in **Houston (South)** and **Washington (Central)**.
-* **Inefficiency Map:** The map visual confirms this by showing "Red Zones" (low profit margins) clustered in our biggest cities. We are making money simply because we have a massive volume of customers, not because we are running efficiently.
+**The Story:** "Bigger" does not always mean "Better." We found that our largest branches are often our least efficient.
+
+* **The Deception of Scale:** The **East Region** is our biggest market, bringing in **$5.3 billion** in revenue, which is significantly higher than the South ($3.3bn) or Central ($3.2bn) regions.
+* **Quantity vs. Quality:** Despite this massive revenue, the East is **not** home to our best performers. The ranking table shows that the East region has the lowest Risk-Adjusted Return (RAR) at only **21.10%** because its profits go up and down too much (high volatility).
+* **True Quality:** The best performer are smaller but smarter. The top branch is **Houston (Branch 6016)**, which has a massive RAR score of **111.39%** and a Profit Margin of **43.79%**.
+* **Inefficiency Map:** The map visual confirms this by showing "Red Zones" (low profit margins) clustered in our biggest, busiest cities. We are making 
+money simply because we have a huge volume of customers, not because we are running efficiently.
 
 ## Core Finding #2: The Cost Trap (Profitability)
 **Our Costs Are Too Rigid:** The **Profitability Analysis** diagnoses why our profits are squeezed during downturns.

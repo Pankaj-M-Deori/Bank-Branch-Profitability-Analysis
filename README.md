@@ -27,45 +27,46 @@ However, these headline numbers hide significant underlying risks, specifically 
 * **Inefficiency Map:** The map visual exposes the truth behind the revenue numbers. It highlights several states in "Red" (Bottom 25% Profit Margin). This visually confirms that while these regions contribute to the bank's total revenue bucket, they are actually operating at very thin, inefficient margins.
 
 ## Core Finding #2: The Cost Trap (Profitability)
-**Our Costs Are Too Rigid:** The **Profitability Analysis** diagnoses why our profits are squeezed during downturns.
+**The Story:** Our costs are too rigid (fixed), making us vulnerable when the economy slows down.
 
 <p align="center">
 <img width="899" height="506" alt="Profitability" src="https://github.com/user-attachments/assets/c2241bca-a635-4223-95b6-c09adafd6faf" />
 </p>
 
-* **90% Fixed Costs:** The Expense Breakdown shows that **90.15%** of our operating costs are fixed: **Salaries (60.16%)** and **Rent (29.99%)**.
-* **The Inflexibility Problem:** The "Revenue vs. Cost Growth" chart shows that in **Q1 2025 and Q3 2025**, revenue growth dropped, but cost growth stayed high. Because we couldn't cut salaries or rent fast enough to match the drop in sales, our profit margin was squeezed. This proves the bank lacks the flexibility to handle bad economic times.
+* **90% Fixed Costs:** The Operating Expense Breakdown reveals a structural weakness: **90.15%** of our costs are fixed. We spend **$6.38 billion (60.16%)** on Salaries and **$3.18 billion (29.99%)** on Rent. These are bills we have to pay every month, no matter how much money we make.
+* **We Lack Flexibility:** The "Revenue vs. Cost Growth" chart shows the danger of this. In **Q4 2024**, our revenue growth dropped, but our cost growth stayed high. Because we couldn't cut salaries or rent fast enough to match the drop in sales, our profit margin was squeezed. This proves the bank cannot easily adjust to economic downturns.
 
 ## Core Finding #3: The Hidden Risk (Loan Performance)
-**Profitable but Risky:** The **Loan Performance** view reveals a major trade-off between profit and safety.
+**The Story:** The **Loan Performance** view reveals a major trade-off between profit and safety.
 
 <p align="center">
 <img width="897" height="509" alt="Loan Performance" src="https://github.com/user-attachments/assets/d9bb8ca4-a737-4833-a1c2-c2537feadb0b" />
 </p>
 
 * **Aggressive Lending:** Our #1 branch, **Houston (Branch 6016)**, has a Loan-to-Deposit Ratio (LDR) of **82.17%**. This is significantly higher than the bank average of **67%**.
-* **Liquidity Warning:** While this aggressive lending drives Houston's high profit, it creates a **Liquidity Risk**. An LDR of 82% means the branch has lent out almost all its cash. If depositors suddenly withdraw funds, this branch, our "best" performer would face an immediate cash crisis.
+* **Liquidity Warning:** While this aggressive lending drives Houston's high profit, it creates a **Liquidity Risk**. An LDR of 82% means the branch has lent out almost all its cash. If depositors suddenly withdraw funds, this branch which is also our "best" performer would face an immediate cash crisis.
 
 ## Core Finding #4: The Efficiency Gap (Regional Scorecard)
-**The Model Zone vs. The Risk Zone:** The **Regional Ranking** view compares our regions to find the best operational model.
+**The Story:** The **Regional Ranking** view compares our regions to find the best operational model.
 
 <p align="center">
 <img width="894" height="511" alt="Regional Ranking" src="https://github.com/user-attachments/assets/5479f432-3fe0-412d-a670-c2769316328a" />
 </p>
 
-* **The Risk Zone (East):** The Scatter Plot shows the East region high on the "Volatility" axis. It generates high profit ($1.74bn) but with the highest instability ($17.66M volatility).
-* **The Model Zone (South):** The South region sits in the "sweet spot." It delivers stable returns with lower costs. The scorecard proves the South is our most efficient region (**63.10% Cost-to-Income**), making it the model we should replicate.
+* **The Risk Zone (East):** The Scatter Plot places the East region high on the "Volatility" axis. It generates high profit ($1.74bn), but it is unstable, with the highest profit volatility of **$17.66M**. It effectively makes money by brute force (size), not skill.
+* **The Model Zone (South):** The South region sits in the "sweet spot." It delivers stable returns with lower costs. The scorecard proves the South is our most efficient region with a **Cost-to-Income ratio of 63.10%** (compared to the East's 65.59%).
+* **The Problem Zone (West):** The West region is struggling operationally. It generates low profit ($0.74bn) relative to the risk it takes, with a low Risk-Adjusted Return of **23.34%**.
 
 ## Core Finding #5: Future Vulnerability (What-If Analysis)
-**A Double-Edged Sword:** The **What-If Simulation** reveals our sensitivity to external factors.
+**The Story:** The **What-If Simulation** reveals our sensitivity to external factors.
 
 <p align="center">
 <img width="897" height="507" alt="NII Impact" src="https://github.com/user-attachments/assets/868d9da7-d04f-4154-a2a4-cfba7620fa88" />
 </p>
 
-* **High Sensitivity:** Simulating a **+1% interest rate hike** boosts our Profit Margin from 33% to nearly **40%**, adding **$1.8 billion** to Net Interest Income.
-* **The Danger:** While a rate hike helps us, this proves we are overly reliant on favorable rates. If rates were to **drop** by 1%, we would lose that same massive amount of profit.
-* **Vulnerable Branches:** The "Top 10 Impacted Branches" list shows that our inefficient branches (like **Branch 6006**) are the most exposed. They have such thin margins that a rate drop could instantly push them into unprofitability.
+* **High Sensitivity:** Our simulation shows that if interest rates go up by just **+1%**, our Profit Margin would jump from 33% to nearly **40%**, adding **$1.8 billion** to our Net Interest Income.
+* **The Danger:** While a rate hike helps us, this proves we are overly reliant on external factors. If rates were to **drop** by 1%, we would lose that same massive amount of profit.
+* **Vulnerable Branches:** The "Top 10 Impacted Branches" list shows that our inefficient branches are the most exposed. For example, **Branch 6006 (Philadelphia)**, which has a massive Cost-to-Income ratio of **84.92%**, would see its margin impacted by over **9%**. These branches have such thin margins that a rate drop could instantly push them into losing money.
 
 <p align="center">
 <img width="898" height="506" alt="Margin Impact" src="https://github.com/user-attachments/assets/9960da2c-2dc2-44b9-a74c-1d1d82410ec2" />

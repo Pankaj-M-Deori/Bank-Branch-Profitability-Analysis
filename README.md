@@ -34,7 +34,7 @@ However, these headline numbers hide significant underlying risks, specifically 
 </p>
 
 * **90% Fixed Costs:** The Operating Expense Breakdown reveals a structural weakness: **90.15%** of our costs are fixed. We spend **$6.38 billion (60.16%)** on Salaries and **$3.18 billion (29.99%)** on Rent. These are bills we have to pay every month, no matter how much money we make.
-* **We Lack Flexibility:** The "Revenue vs. Cost Growth" chart shows the danger of this. In **Q4 2024**, our revenue growth dropped, but our cost growth stayed high. Because we couldn't cut salaries or rent fast enough to match the drop in sales, our profit margin was squeezed. This proves the bank cannot easily adjust to economic downturns.
+* **We Lack Flexibility:** The "Revenue Growth vs. Cost Growth" chart shows the danger of this. In **Q4 2024**, our revenue growth dropped, but our cost growth stayed high. Because we couldn't cut salaries or rent fast enough to match the drop in sales, our profit margin was squeezed. This proves the bank cannot easily adjust to economic downturns.
 
 ## Core Finding #3: The Hidden Risk (Loan Performance)
 **The Story:** The **Loan Performance** view reveals a major trade-off between profit and safety.

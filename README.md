@@ -20,13 +20,11 @@ However, these headline numbers hide significant underlying risks, specifically 
 
 
 ## Core Finding #1: Big Revenue vs. Real Quality
-**The Story:** "Bigger" does not always mean "Better." We found that our largest branches are often our least efficient.
+**The Story:** "Bigger" does not always mean "Better." We found that our total revenue is driven by the **size of our network**, not the **quality of our operations**.
 
-* **The Deception of Scale:** The **East Region** is our biggest market, bringing in **$5.3 billion** in revenue, which is significantly higher than the South ($3.3bn) or Central ($3.2bn) regions.
-* **Quantity vs. Quality:** Despite this massive revenue, the East is **not** home to our best performers. The ranking table shows that the East region has the lowest Risk-Adjusted Return (RAR) at only **21.10%** because its profits go up and down too much (high volatility).
-* **True Quality:** The best performer are smaller but smarter. The top branch is **Houston (Branch 6016)**, which has a massive RAR score of **111.39%** and a Profit Margin of **43.79%**.
-* **Inefficiency Map:** The map visual confirms this by showing "Red Zones" (low profit margins) clustered in our biggest, busiest cities. We are making 
-money simply because we have a huge volume of customers, not because we are running efficiently.
+* **Quantity vs. Quality:** Even though the East is our largest market holding **13 of our 40 branches** and generating **$5.3bn** in revenue, but it is not home to our best performers. The ranking table reveals that our top-tier branches are actually found in smaller regions: **Houston (South)** leads with a **111.39%** Risk-Adjusted Return, followed by **Washington (Central)** at **108.62%**. This proves that having the biggest network does not guarantee the smartest or most profitable business.
+* **True Quality:** Real success is found in the **South Region**, which achieves better results with fewer branches (only 8). Its top branch, **Houston (Branch 6016)**, delivers a massive RAR score of **111.39%** and a Profit Margin of **43.79%**. This branch proves that a lean, efficient operation is worth more than a large, inefficient network.
+* **Inefficiency Map:** The map visual exposes the truth behind the revenue numbers. It highlights several states in "Red" (Bottom 25% Profit Margin). This visually confirms that while these regions contribute to the bank's total revenue bucket, they are actually operating at very thin, inefficient margins.
 
 ## Core Finding #2: The Cost Trap (Profitability)
 **Our Costs Are Too Rigid:** The **Profitability Analysis** diagnoses why our profits are squeezed during downturns.

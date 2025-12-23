@@ -103,7 +103,7 @@ The report was designed to be a fully interactive tool for analysts and managers
 - <a href="https://github.com/Pankaj-M-Deori/Bank-Branch-Profitability-Analysis/blob/main/Bank%20Branch%20Profitability%20Analysis%20Report.pdf">Power BI Report PDF
 - <a href="https://github.com/Pankaj-M-Deori/Bank-Branch-Profitability-Analysis/blob/main/Executive%20Summary.pdf">Executive Summary: Findings & Insights
 - <a href="https://github.com/Pankaj-M-Deori/Bank-Branch-Profitability-Analysis/blob/main/Technical%20Documentation.pdf">Technical Documentation
-- <a href="https://github.com/sure-trust/PANKAJ-MACHIYA-DEORI-g20-sql-and-powebi/blob/main/Final%20capstone%20project/Bank%20Branch%20Profitability%20Analysis/Model%20ER%20Diagram.PNG">Model ER Diagram (Data Model)
+- <a href="https://github.com/Pankaj-M-Deori/Bank-Branch-Profitability-Analysis/blob/main/Model%20ER%20Diagram.PNG">Model ER Diagram (Data Model)
 - <a href="https://github.com/Pankaj-M-Deori/Bank-Branch-Profitability-Analysis/blob/main/Bank%20Branch%20Profitability%20Analysis.pbix">Bank Branch Profitability Analysis (.pbix file)
 - <a href="https://github.com/Pankaj-M-Deori/Bank-Branch-Profitability-Analysis/blob/main/Bank%20Branch%20Profitability%20Analysis%20Presentation.pdf">Project Presentation
 - <a href="https://github.com/Pankaj-M-Deori/Bank-Branch-Profitability-Analysis/blob/main/SURE%20ProED%20Project%20Report.pdf">SURE ProED Project Report
